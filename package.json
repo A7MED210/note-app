@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "nanoid": "^3.3.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-mde": "11.5.0",
+    "react-split": "2.0.13",
+    "showdown": "1.9.1",
+    "sort-by": "^0.0.2",
+    "sort-by-typescript": "^1.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*",
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
